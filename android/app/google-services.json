@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1075270564986",
+    "project_id": "easacc-task-e617d",
+    "storage_bucket": "easacc-task-e617d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075270564986:android:9769cff51f1a3623accfc3",
+        "android_client_info": {
+          "package_name": "com.example.easacc_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075270564986-elt752g07j49ov0349k5633aagc3ro99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.easacc_task",
+            "certificate_hash": "1e3206fa44515eb1c0a3edbeb6963adbe685449a"
+          }
+        },
+        {
+          "client_id": "1075270564986-vvmpf2q61d520urf446prp9ag3l69bkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh3nlRWTX6elQ8x8hND1s1b703t0jBfDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075270564986-vvmpf2q61d520urf446prp9ag3l69bkq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1075270564986-2e8aoav38pq0e34skpqhsfoad1fqrb3k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.easaccTask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
