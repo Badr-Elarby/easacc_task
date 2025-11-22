@@ -105,21 +105,7 @@ flutter run
 
 ```
 
-## 🔐 Authentication Screens
 
-| Login | Google Login | Facebook Login |
-|-------|--------------|----------------|
-| ![](media/login.png) | ![](media/google_login.png) | ![](media/facebook_login.png) |
-
----
-
-## ⚙️ Settings Screen
-
-| Settings |
-|----------|
-| ![](media/settings.png) |
-
----
 
 ## 📱 App Main Screens (1 → 10)
 
