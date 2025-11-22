@@ -101,3 +101,51 @@ Once the setup is complete, run the application using:
 
 ```sh
 flutter run
+
+
+```
+
+## 🔐 Authentication Screens
+
+| Login | Google Login | Facebook Login |
+|-------|--------------|----------------|
+| ![](media/login.png) | ![](media/google_login.png) | ![](media/facebook_login.png) |
+
+---
+
+## ⚙️ Settings Screen
+
+| Settings |
+|----------|
+| ![](media/settings.png) |
+
+---
+
+## 📱 App Main Screens (1 → 10)
+
+| Screen 1 | Screen 2 | Screen 3 |
+|----------|----------|----------|
+| ![](media/screen_1.jpg) | ![](media/screen_2.jpg) | ![](media/screen_3.jpg) |
+
+| Screen 4 | Screen 5 | Screen 6 |
+|----------|----------|----------|
+| ![](media/screen_4.jpg) | ![](media/screen_5.jpg) | ![](media/screen_6.jpg) |
+
+| Screen 7 | Screen 8 | Screen 9 |
+|----------|----------|----------|
+| ![](media/screen_7.jpg) | ![](media/screen_8.jpg) | ![](media/screen_9.jpg) |
+
+| Screen 10 |
+|-----------|
+| ![](media/screen_10.jpg) |
+
+---
+
+
+
+## 🎥 Demo Video / GIF
+
+![](media/demo.gif)
+
+---
+
